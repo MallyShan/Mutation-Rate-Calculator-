@@ -5,4 +5,4 @@ Three files:
 
 2) Virus text files - Text files that contain the genomic sequences of each variation of the gene marked by the origin of the country. 
 
-3) Graph files - pictures of the graphs created by the output from the program in the combinations of the eleven countries. 
+3) Graph files - the graphs were created by excel after inputting the mutation rates calculated by the program. 
